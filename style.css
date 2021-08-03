@@ -1,0 +1,42 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: Raleway ;
+}
+header
+{color: blue;}
+
+<a href="" style="
+    display: flex;justify-content: flex-end;">hebergements</a>
+    :
+
+    header a:hover { 
+        color: blue
+        font-size 16px;
+        padding: 15px;
+        border: 0ch;
+    }
+
+
+ 
+header h1 {
+    font-size: 34px;
+}
+       
+
+
+
+
+
+
+
+header div
+{width: 1352px;
+    display flex: ;
+    justify-content: end;
+    align-items: flex-end;
+    
+}
+
+
